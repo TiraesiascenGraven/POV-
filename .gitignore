@@ -1,43 +1,5 @@
-# Prerequisites
-*.d
+﻿# Weird File that appears when I build - seems to contain PC Data - probs security thingy.
+.vs/
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Linker files
-*.ilk
-
-# Debugger Files
-*.pdb
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
-
-# debug information files
-*.dwo
-
-*PushTest
+# OBJ File - Seems to contain security stuff too? Everyone seems to delete it + contains weird github data afaik
+﻿/POVPlus/obj/
