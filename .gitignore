@@ -2,4 +2,5 @@
 .vs/
 
 # OBJ File - Seems to contain security stuff too? Everyone seems to delete it + contains weird github data afaik
-﻿/POVPlus/obj/
+﻿/PovPlus/obj/
+/PovPlus/obj
