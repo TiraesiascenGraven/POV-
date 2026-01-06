@@ -1,6 +1,5 @@
-﻿# Weird File that appears when I build - seems to contain PC Data - probs security thingy.
 .vs/
-
-# OBJ File - Seems to contain security stuff too? Everyone seems to delete it + contains weird github data afaik
-﻿/PovPlus/obj/
-/PovPlus/obj
+obj/
+bin/
+*.user
+/.github/workflows
